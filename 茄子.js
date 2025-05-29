@@ -2187,7 +2187,7 @@ const csdown = {
             title: "确认",
             url: $.toString(() => {
                 putMyVar('mima_', input)
-                let code = base64Decode(hexToBase64('323032353035323931383230'))
+                let code = base64Decode(hexToBase64('6f306f6f306f6f6f306f6f6f6f'))
                 if (input == code) {
                     setItem('𝐜𝐨𝐝𝐞_', '1')
                     toast('密码正确')
