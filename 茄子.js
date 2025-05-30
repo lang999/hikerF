@@ -249,9 +249,7 @@ const csdown = {
                         host: `${getItem('host')}/video2/uaa/uaa.php`,
                         wz: 'uaa',
                     }
-                },
-                /*
-                {
+                },{
                     title: 'UU视频',
                     img: 'http://007.22s.lol/6img/uusp.png',
                     url: 'hiker://empty?page=fypage&#noHistory#@rule=js:$.require("csdown").syvideo()',
@@ -320,9 +318,7 @@ const csdown = {
                         host: `${getItem('host')}/video2/botiantang/btt.php`,
                         wz: 'btt',
                     }
-                },
-                /*
-                    {
+                },{
                         title: '小狐狸',
                         img: 'http://007.22s.lol/6img/xiaohuli1.png',
                         url: 'hiker://empty?page=fypage&#noHistory#@rule=js:$.require("csdown").syvideo()',
